@@ -3,7 +3,7 @@
 This is a cool math extension for Turbowarp.
 
 Things it supports:
-- Golden, Silver and Bronze Ratioss
+- Golden, Silver and Bronze Ratios
 - Powers Of 10 and 2
 - Squared and Cubed
 - trigomentary rants, turns and aturns
